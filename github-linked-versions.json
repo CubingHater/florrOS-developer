@@ -35,4 +35,16 @@
     "release_type": "bot",
     "release_date": "2025-10-01"
   }
+  {
+    "software": "background",
+    "developer": "Cubing_Pro / blank",
+    "updates": "none",
+    "name": "Background",
+    "build_number": "FOSBACK26",
+    "description": "placeholder",
+    "extra_info": "none",
+    "install_link": "https://github.com/CubingHater/florrOS/blob/main/19.2025.07.12-03.45657.png?raw=true",
+    "release_type": "background",
+    "release_date": "2025-10-01"
+  },
 ]
