@@ -47,4 +47,16 @@
     "release_type": "background",
     "release_date": "2025-10-01"
   },
+  {
+    "software": "florrOS download center",
+    "developer": "Cubing_Hater",
+    "updates": "none",
+    "name": "florrOS download center 26.0",
+    "build_number": "A26:0REL1DOWWIN",
+    "description": "placeholder",
+    "extra_info": "none",
+    "install_link": "https://raw.githubusercontent.com/CubingHater/florrCalc-developer-beta/refs/heads/main/glitch.txt",
+    "release_type": "public release",
+    "release_date": "2025-10-01"
+  }
 ]
