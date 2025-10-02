@@ -51,11 +51,11 @@
     "software": "florrOS download center",
     "developer": "Cubing_Hater",
     "updates": "none",
-    "name": "florrOS download center 26.0",
-    "build_number": "A26:0REL1DOWWIN",
+    "name": "florrOS download center 26.0.1",
+    "build_number": "B26:0REL1DOWWIN",
     "description": "placeholder",
     "extra_info": "none",
-    "install_link": "https://github.com/CubingHater/florrOS-download-center/releases/download/v26.0/florrOS-downloads.exe",
+    "install_link": "https://github.com/CubingHater/florrOS-download-center/releases/download/v26.0.1/florros-downloads.zip",
     "release_type": "public release",
     "release_date": "2025-10-01"
   }
